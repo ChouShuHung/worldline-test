@@ -17,7 +17,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import com.worldline.interview.engine.Engine;
 import com.worldline.interview.engine.InternalCombustionEngine;
 import com.worldline.interview.engine.SteamEngine;
-import com.worldline.interview.machine.WidgetMachine;
 import com.worldline.interview.util.FuelType;
 
 @ExtendWith(MockitoExtension.class)
