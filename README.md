@@ -39,6 +39,10 @@ main/java/com/worldline/interview
 | |-- Engine.java
 | |-- InternalCombustionEngine.java
 | |-- SteamEngine.java
+|-- strategy
+| |-- ProductionStrategy.java
+| |-- InternalCombustionEngineStrategy.java
+| |-- SteamEngineStrategy.java
 |-- util
 | |-- FuelType.java
 |-- machine
@@ -48,6 +52,9 @@ test/java/com/worldline/interview
 |-- engine
 | |-- InternalCombustionEngineTest.java
 | |-- SteamEngineTest.java
+|-- strategy
+| |-- InternalCombustionEngineStrategyTest.java
+| |-- SteamEngineStrategyTest.java
 |-- machine
 | |-- WidgetMachineTest.java
 ```
